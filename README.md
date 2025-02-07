@@ -322,13 +322,20 @@ Contributions are welcome! If you have ideas, improvements, or bug fixes:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Additional Resources
-	•	PyTorch Documentation
-	•	Hugging Face Transformers Documentation
-	•	Hugging Face Datasets Documentation
-	•	TensorBoard Documentation
-	•	Flask Documentation
+	
+ •	**PyTorch Documentation**
 
-Final Notes
+ •	**Hugging Face Transformers Documentation**
+
+ •	**Hugging Face Datasets Documentation**
+
+ •	**TensorBoard Documentation**
+
+ •	**Flask Documentation**
+
+---
+
+## Final Notes
 
 This repository is designed to be as beginner-friendly as possible. Every step is explained in detail—from setting up your environment and repository to deploying your model. If you run into any issues or have questions, please open an issue in this repository or contact the maintainers.
 
