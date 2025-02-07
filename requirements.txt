@@ -1,0 +1,10 @@
+plaintext
+torch
+transformers
+datasets
+accelerate
+deepspeed
+trl
+vllm
+tensorboard
+flask
