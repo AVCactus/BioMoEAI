@@ -36,33 +36,22 @@ This project demonstrates how to combine multiple transformer models (each consi
 
 Your repository should be organized as follows:
 
+```bash
 ensemble-moE-project/
-
 ├── README.md                   # This file with detailed instructions.
-
 ├── requirements.txt            # List of Python dependencies.
-
 ├── checkpoints/                # Directory where model checkpoints will be saved.
-
 ├── configs/
-
 │   └── config.yaml             # (Optional) YAML file with configuration and hyperparameters.
-
 ├── notebooks/
-
 │   └── demo.ipynb              # Jupyter Notebook demonstrating training and inference.
-
 └── src/
-
 ├── init.py             # (Optional) Makes src a Python package.
-
 ├── ensemble.py             # Ensemble model code.
-
 ├── train.py                # Script containing the training loop and logging.
-
 ├── inference.py            # Script for loading the model and running predictions.
-
 └── app.py                  # Flask application to serve the model as a web API.
+```
 
 - **README.md:** Provides a full guide and instructions.
 - **requirements.txt:** Lists all packages you need to install.
